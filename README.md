@@ -4,7 +4,7 @@
 
 ## 🛠 Tech Stack
 
-#### 🧑‍💻 Languages  
+#### 📘 Languages  
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -14,7 +14,7 @@
 
 ---
 
-#### 🔧 Backend FW  
+#### ⚙️ Backend FW  
 
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -39,21 +39,16 @@
 
 ---
 
-#### 🗄️ DB  
+#### 🌐 DB & API  
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-#### 🔌 API / Architecture  
-
 ![REST](https://img.shields.io/badge/REST-25A162?style=for-the-badge&logo=protocols&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ---
 
-#### 🖥️ OS  
+#### 🐧 OS  
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
