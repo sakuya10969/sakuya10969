@@ -5,27 +5,27 @@
 ## 🛠 Tech Stack
 
 ### 🧑‍💻 Languages  
-TypeScript | Python | Go | Java  
+TypeScript, Python, Go, Java  
 <br>
 
 ### ⚙️ Backend FW  
-NestJS | Hono | FastAPI | Gin | Spring Boot  
+NestJS, Hono, FastAPI, Gin, Spring Boot  
 <br>
 
 ### 🎨 Frontend FW  
-React | Next.js  
+React, Next.js  
 <br>
 
 ### ☁️ Cloud  
-Azure | Google Cloud  
+Azure, Google Cloud  
 <br>
 
 ### 🛢️ Database / API  
-PostgreSQL | MySQL | REST | GraphQL  
+PostgreSQL, MySQL, REST, GraphQL  
 <br>
 
 ### 🔧 DevOps / Infrastructure  
-Docker | Terraform | GitHub Actions  
+Docker, Terraform, GitHub Actions  
 <br>
 
 ### 🐧 OS  
