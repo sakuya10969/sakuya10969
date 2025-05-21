@@ -5,7 +5,7 @@
 ## 🛠 Tech Stack
 
 ### 🧑‍💻 Languages  
-TypeScript, Python, Go, Java  
+TypeScript, Python, Golang, Java  
 <br>
 
 ### ⚙️ Backend FW  
