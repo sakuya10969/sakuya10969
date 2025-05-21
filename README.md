@@ -23,3 +23,4 @@ PostgreSQL, MySQL, REST, GraphQL
 Docker, Terraform, GitHub Actions  
 
 ### 🐧 OS  
+Linux
