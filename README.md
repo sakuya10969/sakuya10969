@@ -18,9 +18,3 @@ Azure, Google Cloud
 
 ### 🛢️ Database / API  
 PostgreSQL, MySQL, REST, GraphQL  
-
-### 🔧 DevOps / Infrastructure  
-Docker, Terraform, GitHub Actions  
-
-### 🐧 OS  
-Linux
