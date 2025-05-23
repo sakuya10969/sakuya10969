@@ -11,7 +11,7 @@ TypeScript, Python, Golang, Java
 NestJS, Hono, FastAPI, Gin, Spring FW
 
 ### 🎨 Frontend FW
-React, Next.js
+React, Next.js, Angular
 
 ### ☁️ Cloud
 Azure, Google Cloud
