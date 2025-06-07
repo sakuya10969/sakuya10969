@@ -16,5 +16,5 @@ React, Next.js
 ### ☁️ Cloud
 Azure, Google Cloud
 
-### 🛢️ Database, API
+### 🛢️ DB, API
 PostgreSQL, MySQL, REST, GraphQL
