@@ -14,7 +14,7 @@ NestJS, Hono, FastAPI, Gin, Spring
 React, Next.js, Angular
 
 ### ☁️ Cloud
-Azure, Google Cloud
+Azure, Google Cloud, Firebase
 
 ### 🛢️ DB, API
 PostgreSQL, MySQL, REST, GraphQL
