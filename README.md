@@ -5,7 +5,7 @@
 ## 🛠 Tech Stack
 
 ### 🧑‍💻 Languages
-TypeScript, Python, Golang, Java
+TypeScript, Python, Golang, Java, C, C++
 
 ### ⚙️ Backend FW
 NestJS, Hono, FastAPI, Gin, Spring
