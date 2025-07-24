@@ -8,7 +8,7 @@
 TypeScript, Python, Golang, Java
 
 ### ⚙️ Backend FW
-NestJS, Hono, FastAPI, Gin, Spring
+NestJS, Hono, FastAPI, Gin, Spring FW
 
 ### 🎨 Frontend FW
 React, Next.js
