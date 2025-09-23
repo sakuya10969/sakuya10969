@@ -9,7 +9,7 @@ TypeScript / Tailwind CSS / React / Next.js
 TypeScript / Python / Golang / NestJS / Hono / FastAPI / Gin
 
 ### ☁️ Cloud
-Azure
+Azure / Google Cloud
 
 ### 🛢️ DB, API
 PostgreSQL / MySQL / REST / GraphQL
