@@ -1,20 +1,19 @@
-# 👋 Hi, I’m @sakuya10969
+# 👋 こんにちは、sakuya10969です。
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 技術スタック
 
-### 🧑‍💻 Languages
-TypeScript, Python, Golang, Java
-
-### ⚙️ Backend FW
-NestJS, Hono, FastAPI, Gin, Spring FW
-
-### 🎨 Frontend FW
+### 🎨 Frontend
+TypeScript, Tailwind CSS,
 React, Next.js
 
+### ⚙️ Backend
+TypeScript, Python, Golang,
+NestJS, Hono, FastAPI, Gin
+
 ### ☁️ Cloud
-Azure, Google Cloud, Firebase
+Azure
 
 ### 🛢️ DB, API
 PostgreSQL, MySQL, REST, GraphQL
