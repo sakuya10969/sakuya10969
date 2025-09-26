@@ -3,16 +3,16 @@
 ## 🛠 技術スタック
 
 ### Frontend
-TypeScript / Tailwind CSS / Shadcn / Next.js
+Next.js / TypeScript / Tailwind CSS / Shadcn
 
 ### Backend
-TypeScript / Python / Golang / NestJS / Hono / FastAPI / Gin
+NestJS / Hono / FastAPI / Gin / TypeScript / Python / Golang
 
 ### Cloud
 Azure / Google Cloud
 
 ### DB
-PostgreSQL / MySQL / Prisma / SQLAlchemy
+Prisma / SQLAlchemy / PostgreSQL / MySQL
 
 ### API
 REST / GraphQL
