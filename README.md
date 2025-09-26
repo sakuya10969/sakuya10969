@@ -3,7 +3,7 @@
 ## 🛠 技術スタック
 
 ### 🎨 Frontend
-TypeScript / Tailwind CSS / React / Next.js
+TypeScript / Tailwind CSS / Shadcn / Next.js
 
 ### ⚙️ Backend
 TypeScript / Python / Golang / NestJS / Hono / FastAPI / Gin
