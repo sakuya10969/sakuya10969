@@ -12,7 +12,7 @@ NestJS / Hono / FastAPI / Gin / TypeScript / Python / Golang
 Azure / Google Cloud
 
 ### DB
-Prisma / SQLAlchemy / PostgreSQL / MySQL
+Prisma / Drizzle / SQLAlchemy / PostgreSQL / MySQL
 
 ### API
 REST / GraphQL
