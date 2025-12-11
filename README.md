@@ -9,7 +9,7 @@ Next.js / TypeScript / Tailwind CSS / Shadcn
 NestJS / Hono / FastAPI / Gin / TypeScript / Python / Golang
 
 ### Cloud
-Azure / Google Cloud
+Microsoft Azure / Google Cloud
 
 ### DB
 Prisma / Drizzle / SQLAlchemy / PostgreSQL / MySQL
