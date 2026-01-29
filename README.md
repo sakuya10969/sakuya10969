@@ -11,7 +11,7 @@ NestJS / Hono / FastAPI / Gin / TypeScript / Python / Golang
 ### Cloud
 Microsoft Azure / Google Cloud
 
-### DB
+### DB / ORM
 Prisma / Drizzle / SQLAlchemy / PostgreSQL / MySQL
 
 ### API
