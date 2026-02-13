@@ -6,13 +6,13 @@
 Next.js / TypeScript / Tailwind CSS / Shadcn
 
 ### Backend
-NestJS / Hono / FastAPI / Gin / TypeScript / Python / Golang
+NestJS / FastAPI / TypeScript / Python
 
 ### Cloud
 Microsoft Azure / Google Cloud
 
 ### DB / ORM
-Prisma / Drizzle / SQLAlchemy / PostgreSQL / MySQL
+Prisma / SQLAlchemy / PostgreSQL / MySQL
 
 ### API
 REST / GraphQL
