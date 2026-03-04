@@ -12,7 +12,7 @@ NestJS / FastAPI / TypeScript / Python
 Microsoft Azure / Google Cloud / Vercel / Hasura / Neon
 
 ### DB / ORM
-Prisma / SQLAlchemy / PostgreSQL / MySQL
+Prisma / SQLAlchemy / Alembic / PostgreSQL
 
 ### API
 REST / GraphQL(Relay, Hasura)
