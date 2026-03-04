@@ -3,16 +3,16 @@
 ## 🛠 技術スタック
 
 ### Frontend
-Next.js / TypeScript / Tailwind CSS / Shadcn
+Next.js / TypeScript / Tailwind CSS / Shadcn / Relay
 
 ### Backend
 NestJS / FastAPI / TypeScript / Python
 
 ### Cloud
-Microsoft Azure / Google Cloud
+Microsoft Azure / Google Cloud / Vercel / Hasura / Neon
 
 ### DB / ORM
 Prisma / SQLAlchemy / PostgreSQL / MySQL
 
 ### API
-REST / GraphQL
+REST / GraphQL(Relay, Hasura)
