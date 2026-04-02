@@ -3,7 +3,7 @@
 ## 🛠 技術スタック
 
 ### Frontend
-Next.js / TypeScript / Tailwind CSS / Shadcn / Relay
+React / Next.js / TypeScript / Tailwind CSS / Shadcn / Relay
 
 ### Backend
 NestJS / FastAPI / TypeScript / Python
