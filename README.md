@@ -18,9 +18,9 @@ Prisma / SQLAlchemy / Alembic / PostgreSQL
 REST / GraphQL(Relay, Hasura)
 
 ### AI Agentic IDE
-Amazon Kiro
+Amazon Kiro / Google Antigravity
 
 ### AI Agents
-Amazon Kiro / Claude Code / Codex
+Amazon Kiro / Claude Code / Codex / Google Antigravity
 
 https://sakuya10969-portfolio-csr58fk6e-sakuya10969s-projects.vercel.app/
