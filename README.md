@@ -13,6 +13,8 @@
 * バックエンドを中心としたフルスタック開発
 * クラウド（Azure / GCP）を前提とした設計
 * API設計（REST / GraphQL）とデータモデリング
+* **API First（OpenAPI）をベースとした開発プロセス設計**
+* **仕様駆動開発 / ドキュメント駆動開発の実践**
 * 技術選定や構成設計への関心が強い
 * 実装だけでなく「なぜその設計か」を重視
 
@@ -24,14 +26,16 @@
 
 * React / Next.js
 * TypeScript
-* Tailwind CSS / shadcn/ui
+* Tailwind CSS / Mantine UI / shadcn/ui
 * Relay / React Query
+* Orval（OpenAPIベースの型・APIクライアント自動生成）
 
 ### Backend
 
 * NestJS (TypeScript)
 * Hono (TypeScript)
 * FastAPI (Python)
+* OpenAPI（Swagger）によるAPI設計・仕様管理
 
 ### Cloud / Infrastructure
 
@@ -44,15 +48,19 @@
 ### Database / ORM
 
 * PostgreSQL
-* Prisma
-* Drizzle
-* SQLAlchemy
-* Alembic
+* Prisma / Drizzle
+* SQLAlchemy / Alembic
 
 ### API / Data
 
-* REST API
+* REST API（OpenAPI）
 * GraphQL（Relay / Hasura）
+
+### AI Agentic Development
+
+* Amazon Kiro
+* Codex
+* Claude Code
 
 ---
 
@@ -63,6 +71,35 @@
 * 認証・認可（Firebase Auth / Entra ID）
 * データ処理・ETL設計
 * RAG / AIを活用した業務支援システム
+
+---
+
+## 🧩 開発スタイル
+
+### API First 開発
+
+OpenAPIでAPI仕様を定義し、
+Orvalを用いてフロントエンドの型・APIクライアントを自動生成することで、
+
+* 型の不整合の排除
+* フロント/バックエンド間の認識ズレの削減
+* 開発スピードの向上
+
+を実現しています。
+
+---
+
+### 仕様駆動開発 × AIエージェント
+
+Amazon Kiro / Claude Code / Codex などを活用し、
+ドキュメントを起点とした開発フローを構築しています。
+
+* .kiro/steering → docs/へとスケールさせる
+* 仕様 → タスク → 実装 の流れを明確化
+* エージェントに対して実装指示を行い開発を加速
+
+単なる補助ツールではなく、
+**開発プロセス自体を最適化するための手段としてAIを活用**しています。
 
 ---
 
