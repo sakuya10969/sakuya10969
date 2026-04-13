@@ -114,4 +114,4 @@ Amazon Kiro / Claude Code / Codex などを活用し、
 
 ## 🔗 ポートフォリオ
 
-* https://sakuya10969-portfolio-server.sakuya-f20010618.workers.dev/
+* https://sakuya10969-portfolio-client.pages.dev/
