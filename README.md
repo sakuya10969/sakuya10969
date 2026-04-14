@@ -87,7 +87,7 @@ Orvalを用いてフロントエンドの型・APIクライアントを自動生
 
 ### 仕様駆動開発 × AIエージェント
 
-Amazon Kiro / Claude Code / Codex などを活用し、
+Amazon Kiro / Codex / Claude Code を活用し、
 ドキュメントを起点とした開発フローを構築しています。
 
 * .kiro/steering → docs/へとスケールさせる
