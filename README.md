@@ -11,7 +11,6 @@
 ## 🚀 強み
 
 * バックエンドを中心としたフルスタック開発
-* クラウド（Azure / GCP）を前提とした設計
 * API設計（REST / GraphQL）とデータモデリング
 * **API First（OpenAPI）をベースとした開発プロセス設計**
 * **仕様駆動開発 / ドキュメント駆動開発の実践**
@@ -25,22 +24,22 @@
 ### Frontend
 
 * React / Next.js
-* TypeScript
 * Tailwind CSS / Mantine UI / shadcn/ui
 * Relay / React Query
 * Orval（OpenAPIベースの型・APIクライアント自動生成）
 
 ### Backend
 
-* NestJS (TypeScript)
-* Hono (TypeScript)
-* FastAPI (Python)
+* NestJS
+* FastAPI
+* Hono
 * OpenAPI（Swagger）によるAPI設計・仕様管理
 
 ### Cloud / Infrastructure
 
 * Microsoft Azure
 * Google Cloud
+* Amazon Web Services
 * Vercel
 * Hasura
 * Neon
@@ -68,9 +67,6 @@
 
 * Webアプリケーション開発（フルスタック）
 * クラウドネイティブアーキテクチャ設計
-* 認証・認可（Firebase Auth / Entra ID）
-* データ処理・ETL設計
-* RAG / AIを活用した業務支援システム
 
 ---
 
@@ -107,7 +103,7 @@ Amazon Kiro / Claude Code / Codex などを活用し、
 
 * クラウドアーキテクチャ設計
 * マイクロサービス / 分散システム
-* ID管理・セキュリティ（特にAzure Entra）
+* ID管理・セキュリティ（特にAzure, Microsoft Entra）
 * 業務効率化・DX
 
 ---
