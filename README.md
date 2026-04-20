@@ -32,6 +32,7 @@
 
 * NestJS
 * FastAPI
+* Elysia
 * Hono
 * OpenAPI（Swagger）によるAPI設計・仕様管理
 
@@ -59,7 +60,6 @@
 
 * Amazon Kiro
 * Codex
-* Claude Code
 
 ---
 
@@ -78,7 +78,7 @@ OpenAPIでAPI仕様を定義し、
 Orvalを用いてフロントエンドの型・APIクライアントを自動生成することで、
 
 * 型の不整合の排除
-* フロント/バックエンド間の認識ズレの削減
+* フロントエンド / バックエンド間の認識ズレの削減
 * 開発スピードの向上
 
 を実現しています。
@@ -87,7 +87,7 @@ Orvalを用いてフロントエンドの型・APIクライアントを自動生
 
 ### 仕様駆動開発 × AIエージェント
 
-Amazon Kiro / Codex / Claude Code を活用し、
+Amazon Kiro / Codex を活用し、
 ドキュメントを起点とした開発フローを構築しています。
 
 * .kiro/steering → docs/へとスケールさせる
